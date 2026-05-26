@@ -1,4 +1,4 @@
-Catastrophe Modeling project
+Catastrophe Exposure Dashboard project
 
 Tableau Public workbook link - https://public.tableau.com/views/CatastropheModeling/DisasterDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
