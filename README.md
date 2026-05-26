@@ -1,6 +1,6 @@
 Catastrophe Modeling project
 
-Tableau Public workbook link - 
+Tableau Public workbook link - https://public.tableau.com/views/CatastropheModeling/DisasterDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Link to project - https://docs.google.com/spreadsheets/d/1MltHY0TykDWQQ5-vNul3cB0KPLUP2eYfuct76Gi0r7U/edit?gid=375370464#gid=375370464
 
